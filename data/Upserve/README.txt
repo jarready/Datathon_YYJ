@@ -10,6 +10,6 @@ Data fields:
 • region
 • restaurantUid
 
-Some interesting projects could be: 
+Some interesting projects could be:
 * Seasonal impact on late night sales
 * Geographic heat map of brunch popularity
