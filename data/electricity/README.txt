@@ -1,0 +1,1 @@
+This dataset contains electricity usage data for New England in 2017. It originates from ISO NE: https://www.iso-ne.com/.
